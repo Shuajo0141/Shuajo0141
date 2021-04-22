@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Shuajo0141
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...<!DOCTYPE html>
 <html>
 <title>Surebrec</title>
 <meta charset="UTF-8">
